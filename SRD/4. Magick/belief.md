@@ -1,0 +1,1 @@
+If belief in you dies out, you die.

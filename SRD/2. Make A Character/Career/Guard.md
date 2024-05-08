@@ -1,0 +1,2 @@
+- Have advantage on [[force]] checks to grapple and subdue enemies
+- Have advantage on 

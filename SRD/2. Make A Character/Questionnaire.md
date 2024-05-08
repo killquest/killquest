@@ -1,0 +1,4 @@
+##### Questionnaire
+One useful method for detailing your character’s personality and background is to ask questions about them. This section provides a list of sample questions. If any of your answers make you want to change something about your character — their Attributes, Skills, Talents, or even their Archetype — feel free to do so, provided your character still fits into the group's Framework. You might also like to share some of your backstory with the GM to allow them to integrate your character’s history into the campaign.
+
+Your Faction and any Backgrounds you rolled may partially answer some of these questions, but exactly what happened to your character is up to you. If you answer these questions you’ll have a well fleshed out character, but they still have plenty of room to grow and change. You’ll know who your character is, but it remains to be seen what they do on their adventures and what they will become.

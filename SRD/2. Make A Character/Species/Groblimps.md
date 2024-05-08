@@ -1,0 +1,7 @@
+- Groblimps have made few beautiful things, but many clever ones. 
+- They have large noses, pointy ears, and sharp teeth.
+- They are known for stealing and hoarding valuable items.
+- They are cunning and intelligent, using their wit to outsmart opponents.
+- Goblins live in dark and underground places, such as basements, caves, mines, or dungeons.
+- They are aggressive and prone to violence, eagerly raiding others.
+- They are physically weak, relying on traps, ambushes, or overwhelming numbers to overcome their foes.
