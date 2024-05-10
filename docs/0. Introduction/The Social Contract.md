@@ -62,3 +62,5 @@ Traditionally
 KillQuest contains a lot of opportunities and can be played however you want. This is great for flexibility, but can be a lot to think about. Do you want to go on epic quests to burn out witchcraft and destroy curses? Or become embroiled in political intrigue and backstabbing? Or explore the hidden corners of the world for legendary loot? 
 
 Knowing what you and your friends want to do helps you build a interesting character for the stories you’ll be telling, which makes those characters more fun to play.
+
+It is the players core responsibility to make their characters are fun to play and fun to play with. They should seek interesting opportunities and be willing to engage with the core gameplay loop. This doesn't mean you can't play 'black sheep' characters who go against type, but try not to hold up the game because of it.

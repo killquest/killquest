@@ -25,15 +25,12 @@ If your goal is to stop an enemy, you might ***Command*** them to stop, trying t
 "Yeah, that seems fair, lets do that!"
 
 ##### 1. State a goal and how you want to do it
-
-
 Your goal is the outcome you want your character to achieve when they overcome the obstacle at hand. Some example goals are “I want to [[sneak]] past the guard” or “I want to [[force]] open a window” In both cases the obstacle is entry to the building, what is different is the ability used. 
 
 ##### 2. Choosing a Difficulty
-Once the player chooses how to complete their action, the rest of the group how difficult it would be to pull it off. 
-There’s no definitive guide to choosing difficulties. It’s an expressive element of how your group plays. Make the choices that feels right to everyone at the table. 
+Once the player chooses how to complete their action, the rest of the group decide how difficult it would be to pull it off. There’s no definitive guide to choosing difficulties. It’s an expressive element of how your group plays. Make the choices that feels right to everyone at the table. 
 
-If you’re ever unsure about which position to pick, it's probably a ***challenging*** situation. You wouldn’t be rolling if there wasn't a challenge involved. If their plan seems reckless, then make it a ***desperate*** situation. If it's a good plan, then make it a ***beneficial*** situation.
+If you’re ever in doubt, it's probably a ***challenging*** situation. You wouldn’t be rolling if there wasn't a challenge involved. If their plan seems reckless, then make it a ***desperate*** situation. If it's a good plan, then make it a ***beneficial*** situation.
 
 As the player, if you’re angling for a particular position, ask the group how they think you could do it, or ask them to clarify the situation and explain their choice.
 

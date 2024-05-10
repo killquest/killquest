@@ -1,9 +1,9 @@
 Abilities define how the characters interact with the world, they describe those areas in which a character excels and those in which they could use a bit of help. A character’s abilities also provide a glimpse of motivation and strategy for success. Abilities may seem like just a collection of stats, but it is where your character lives, and it defines how they interact with the world.
 
-If you can't use an ability, it's usually pretty obvious as it won't make sense in a sentence. Some example of poorly worded abilities are “I want to [[sneak]] past the guard” or “I want to [[force]] open a window” 
+If you can't use an ability, it's usually pretty obvious as it won't make sense in a sentence. Some example of poorly worded abilities are “I want to [[sneak]] past the guard” or “I want to [[force]] the door open” 
 
 ###### Interpreting Results
-When forcing open the window, if you succeed imagine what a common success scenario might look like; for instance you jimmy it open. For a failure it may look like accidentally smashing it, leaving evidence and starting a [[plotline]] for discovery. 
+When forcing open the door, if you succeed imagine what a common success scenario might look like; for instance you jimmy it open. For a failure it may look like accidentally smashing it, leaving evidence and starting a [[plotline]] for discovery. 
 
 Usually the character’s goal is pretty obvious by their ability choice, but the group should ask questions to the player to clarify their goal if they don't understand how it could be achieved with the ability.
 
@@ -31,5 +31,101 @@ At this rank, people use you as an example, and seek you out to learn and improv
 4. **Legend**
 It is as highest ability that you could hope to achieve, and can only be achieved through un-natural means. You may only reach this level of ability briefly with the aid of magick, you cannot have permanent levels.
 
-[[Command]], [[Craft]], [[Divine]], [[Endure]], [[Force]], [[Handle]], [[Search]], [[Move]], [[Perceive]], [[Perform]], [[Persuade]], [[Sneak]]
+### Command
+When you ***command***, you make demands or enforce a dominating influence over someone.
+##### You Might use this to:
+- inspire an ally to action
+- intimidate characters to follow your orders
+- control beasts and crowds
+- captivate attention and be heard
+### Craft
+When you ***craft***, you create or shape something through deliberate artistry and creativity.
+##### You Might use this to:
+- create a new gadget or alter an existing item
+- cook food or brew drinks, poisons and potions
+- make ammunition explosives or smoke screens
+- repair or upgrade armour, jewellery or weaponry
+### Divine
+When you ***divine***, you you wield a deity’s power to influence or understand world.
+##### You Might use this to:
+- identify and dispel magick
+- cast a spell
+- decipher ancient tomes and scrolls 
+- learn new spells, rituals, or magick
 
+I think this could be ***conjure*** instead of divine
+### Endure
+When you ***endure***, you resist adverse force or influence without yielding.
+##### You Might use this to:
+- endure physical hardships
+- maintain composure in the face of fear
+- minimise the impact of injuries
+- remain unaffected by sense impairing substances
+- go prolonged periods without food, water, or rest
+### Force
+When you ***force***, you compel something or someone to do something through physical coercion.
+##### You Might use this to:
+- grapple an opponent or escape from their grapple
+- open locked doors or chests
+- hold onto something against resistance
+- physically intimidate enemies
+- perform melee attacks
+- move heavy things
+### Handle
+When you ***handle***, you manipulate, control, or use something with dexterity and skill using your hands.
+##### You Might use this to:
+- pick someone’s pocket
+- conceal small objects
+- plant or switch items unnoticed
+- crack a safe or pick a lock
+- disable an alarm or trap
+- control a mount with reins
+- play a musical instrument
+### Search
+When you ***search***, you explore or examine something or someone in order to discover information, objects, or clues.
+##### You Might use this to:
+- uncover hidden clues and secret passages
+- find valuable loot or treasure
+- find tracks or footprints
+- find clues at a library
+### Move
+When you ***move***, you move quickly and precisely with grace and gusto. 
+##### You Might use this to:
+- dodge incoming projectiles and attacks
+- perform acrobatics
+- climb into a window
+- jump a fence as you escape
+- run and leap across the rooftops
+- perform a stunt 
+### Perceive
+When you ***perceive***, you use your senses to become aware of or understand something or someone.
+##### You Might use this to:
+- spot the signs of trouble before it happens
+- uncover opportunities or weaknesses
+- detect a person’s motivations or true intentions
+- closely analyse a person to perceive hidden truths
+- examine events to understand a pressing situation
+
+// observe // might be better to describe?
+### Perform
+When you _**perform**_, you captivate an audience with skill
+##### You Might use this to:
+- inspire or evoke specific emotions
+- act as another character would or deceive others
+- entertain crowds or distract enemies
+- sleight of hand or illusion
+- convey information secretly in a message
+### Persuade
+When you ***persuade***, you soothe, demand or delight by compelling attraction, enthusiasm or loyalty.
+##### You Might use this to:
+- lie convincingly
+- gain access to secured resources or information
+- make a good impression or convince someone
+- transcend class and cultural barriers
+- charm the guards or at least bribe them
+### Sneak
+When you ***sneak***, you mask or conceal yourself or intentions in a subtle way to avoid detection.
+##### You Might use this to:
+- skulk in the shadows
+- hide without being noticed
+- ambush from a hidden position

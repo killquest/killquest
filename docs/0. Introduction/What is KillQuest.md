@@ -1,8 +1,6 @@
 KillQuest is a game about assembling a group of gallant rogues to complete questionable jobs in the crumbling remains if a once mighty empire.
 
-You should expect lethal skirmishes, faction based politics, high stakes heists and player-driven campaigns. 
-
-You play the role of a powerful patron who oversees and controls the cast of colourful characters that are in your service. 
+You should expect lethal skirmishes, faction based politics, high stakes heists and player-driven campaigns. You'll play the role of a powerful patron who oversees and controls the cast of colourful characters that are in your service. 
 
 Within this document, you will find the essential rules to enhance your storytelling experience. Let the rules facilitate captivating narratives, inspire intrigue, and ensure the game flows smoothly. 
 

@@ -25,7 +25,7 @@ If you've only got a few hours between sessions then I'd go for printing papercr
 ###### Terrain
 The adventures of KillQuest take place in taverns, city streets, sewers, forests and more. In a pinch, a stack of books or a few upside-down cups can serve as terrain, provided that each player uses a bit of imagination. Although pre-cut MDF and plastic scenery are available from a variety of companies for easy and reasonably affordable solution.
 
-However, many hobbyists enjoy making their own. We have our own system of modular terrain pieces that allows for easy storage, destructable terrain and easy reusablity. We think this is a really neat solution. Check out more of our crafting philosophy on our blog.
+However, many hobbyists enjoy making their own. We have our own system of modular terrain pieces that allows for easy storage, destructible terrain and easy reusability. We think this is a really neat solution. Check out more of our crafting philosophy on our blog.
 
 ###### Measuring Devices
 We have four templates used to determine movement, range, and damage zones. If that's not available to you, you can also use a tape measure or ruler.
