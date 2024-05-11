@@ -1,8 +1,8 @@
 ---
-title: System Reference Document (SRD)
+title: SRD
 layout: default
 nav_order: 2
 has_children: true
 ---
 
-# SRD
+# System Reference Document (SRD)
