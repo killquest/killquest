@@ -3,7 +3,7 @@ A social contract in the context of a role-playing game (RPG) is an agreement or
 Feel free to adapt the social contract to your specific group's needs and preferences. It should serve as a foundation for open communication and a collaborative spirit to ensure everyone has a great time playing the game.
 
 ##### The Contract
-In our role-playing game, we recognize the importance of mutual respect, cooperation, and fairness to ensure that everyone has an enjoyable and rewarding experience. This social contract outlines the principles and expectations that will guide our interactions and gameplay. By agreeing to these terms, we aim to create a fun, inclusive, and immersive RPG experience for all participants.
+In our role-playing game, we recognise the importance of mutual respect, cooperation, and fairness to ensure that everyone has an enjoyable and rewarding experience. This social contract outlines the principles and expectations that will guide our interactions and gameplay. By agreeing to these terms, we aim to create a fun, inclusive, and immersive RPG experience for all participants.
 ###### Respect Others
 We commit to treating each other with respect, out of character. This means avoiding derogatory language and actions that could make others uncomfortable. Disagreements should be resolved respectfully and constructively.
 ###### Establish Boundaries
