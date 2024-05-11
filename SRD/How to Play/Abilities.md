@@ -10,11 +10,11 @@ Your characters abilities define how they interact with the world, what they are
 A characters abilities are measured in ranks, shown by the number of dots next to the ability on their character card. The greater your rank, the better your chance of success whilst using that ability.
 
 1. **Talented** 🔘
-Having a single rank in an ability means you have a special knack but little experience, such having ridden a horse a few times in your life or . At this rank, you can handle routine tasks and even overcome challenging obstacles, given enough time. Certain tasks, however, are beyond your ability.
-2. **Trained** 🔘🔘
-At this rank, you combine your natural talents with extensive training. Your skill far exceeds that of the common folk. Having two ranks in an ability means that you are often the best at what you do, and only be bested by a skilled practitioner. You can confidently tackle most challenges and, with a little luck, can pull off some pretty impressive feats.
+Having a single rank means you have a talent but little experience. You can handle routine tasks and even overcome challenging obstacles, given enough time. Certain tasks, however, are beyond your ability.
+2. **Experienced** 🔘🔘
+At this rank, you combine your natural talents with extensive experience. Your skill far exceeds that of the common folk. You are often the best at what you do, and can confidently tackle most challenges and with a little luck, can pull off some pretty impressive feats.
 3. **Master** 🔘🔘🔘
-At this rank, people use you as an example, and seek you out to learn and improve their training, or simply to meet you to ask you questions. You can confidently tackle any challenge with most things solvable, with only the most difficult challenges forcing you to stop to solve them.
+At this rank, people use you as an example, and seek you out to learn from you or to ask you questions. You can confidently tackle any challenge, with only the most difficult challenges giving your pause for thought.
 
 #### Command
 When you ***command***, you make demands or enforce a dominating influence over someone.
@@ -27,9 +27,10 @@ When you ***command***, you make demands or enforce a dominating influence over
 When you ***craft***, you create or shape something through deliberate artistry and creativity.
 ##### You Might use this to:
 - create a new gadget or alter an existing item
+- fashion a disguise
 - cook food or brew drinks, poisons and potions
 - make ammunition explosives or smoke screens
-- repair or upgrade armour, jewellery or weaponry
+- repair or upgrade armour, jewellery or weaponry 
 #### Divine
 When you ***divine***, you you wield a deity’s power to influence or understand world.
 ##### You Might use this to:

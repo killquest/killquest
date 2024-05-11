@@ -2,7 +2,7 @@ Ability Tests are quick and straightforward, with a custom dice system that not 
 
 To resolve an action, we go through these steps:
 
-###### 1. The player states their goal and chooses their ability
+#### 1. The player states their goal and chooses their ability
 Your goal is outcome you want your character to achieve when they overcome the obstacle at hand. Some example goals are “I want to get into the manor house” or “I want to see who comes and goes at the house.” In both cases, the obstacle is the guards. They are a challenging obstacle that may be dangerous or troublesome for the Players.
 
 Usually the character’s goal is pretty obvious by their ability choice, but the group should ask questions to the player to clarify their goal if they don't understand how it could be achieved with the ability.
