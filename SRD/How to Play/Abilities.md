@@ -17,14 +17,14 @@ At this rank, you combine your natural talents with extensive experience. Your s
 3. **Master** 🔘🔘🔘
 At this rank, people use you as an example, and seek you out to learn from you or to ask you questions. You can confidently tackle any challenge, with only the most difficult challenges giving your pause for thought.
 
-#### Command
+### Command
 When you ***command***, you make demands or enforce a dominating influence over someone.
 ##### You Might use this to:
 - inspire an ally to action
 - intimidate characters to follow your orders
 - control beasts and crowds
 - captivate attention and be heard
-#### Craft
+### Craft
 When you ***craft***, you create or shape something through deliberate artistry and creativity.
 ##### You Might use this to:
 - create a new gadget or alter an existing item
@@ -32,7 +32,7 @@ When you ***craft***, you create or shape something through deliberate artistry
 - cook food or brew drinks, poisons and potions
 - make ammunition explosives or smoke screens
 - repair or upgrade armour, jewellery or weaponry 
-#### Divine
+### Divine
 When you ***divine***, you you wield a deity’s power to influence or understand world.
 ##### You Might use this to:
 - identify and dispel magick
@@ -40,7 +40,7 @@ When you ***divine***, you you wield a deity’s power to influence or understa
 - decipher ancient tomes and scrolls 
 - learn new spells, rituals, or magick
 I think this could be ***conjure*** instead of divine
-#### Endure
+### Endure
 When you ***endure***, you resist adverse force or influence without yielding.
 ##### You Might use this to:
 - endure physical hardships
@@ -48,7 +48,7 @@ When you ***endure***, you resist adverse force or influence without yielding.
 - minimise the impact of injuries
 - remain unaffected by sense impairing substances
 - go prolonged periods without food, water, or rest
-#### Force
+### Force
 When you ***force***, you compel something or someone to do something through physical coercion.
 ##### You Might use this to:
 - grapple an opponent or escape from their grapple
@@ -57,7 +57,7 @@ When you ***force***, you compel something or someone to do something through p
 - physically intimidate enemies
 - perform melee attacks
 - move heavy things
-#### Handle
+### Handle
 When you ***handle***, you manipulate, control, or use something with dexterity and skill using your hands.
 ##### You Might use this to:
 - pick someone’s pocket
@@ -67,20 +67,20 @@ When you ***handle***, you manipulate, control, or use something with dexterity
 - disable an alarm or trap
 - control a mount with reins
 - play a musical instrument
-#### Search
+### Search
 When you ***search***, you explore or examine something or someone in order to discover information, objects, or clues.
 ##### You Might use this to:
 - uncover hidden clues and secret passages
 - find valuable loot or treasure
 - find tracks or footprints
 - find clues at a library
-#### Move
+### Move
 When you ***move***, you move quickly and precisely with grace and gusto. 
 ##### You Might use this to:
 - dodge incoming attacks
 - perform acrobatics or stunts
 - jump a fence, climb into a window or leap between rooftops
-#### Perceive
+### Perceive
 When you ***perceive***, you use your senses to become aware of or understand something or someone.
 ##### You Might use this to:
 - spot the signs of trouble before it happens
@@ -89,7 +89,7 @@ When you ***perceive***, you use your senses to become aware of or understand s
 - closely analyse a person to perceive hidden truths
 - examine events to understand a pressing situation
 // observe // might be better to describe?
-#### Perform
+### Perform
 When you _**perform**_, you captivate an audience with skill
 ##### You Might use this to:
 - inspire or evoke specific emotions
@@ -97,7 +97,7 @@ When you _**perform**_, you captivate an audience with skill
 - entertain crowds or distract enemies
 - sleight of hand or illusion
 - convey information secretly in a message
-#### Persuade
+### Persuade
 When you ***persuade***, you soothe, demand or delight by compelling attraction, enthusiasm or loyalty.
 ##### You Might use this to:
 - lie convincingly
@@ -105,7 +105,7 @@ When you ***persuade***, you soothe, demand or delight by compelling attraction
 - make a good impression or convince someone
 - transcend class and cultural barriers
 - charm the guards or at least bribe them
-#### Sneak
+### Sneak
 When you ***sneak***, you mask or conceal yourself or intentions in a subtle way to avoid detection.
 ##### You Might use this to:
 - skulk in the shadows

@@ -5,5 +5,12 @@ layout: default
 ### Up Next
 - [ ] Combine Introduction
 - [ ] Combine Intrigue, plotline & reputation
+
 ### Long Term Goals
-- [x] Add Domain
+- [ ] Add Domain
+
+### Devlog (done)
+✅ Add Logo & Favicon
+✅ 
+✅ 
+✅ 
