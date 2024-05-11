@@ -27,7 +27,7 @@ There are five different plots, each with a missing **detail** you need to pro
 -   **Transport**— Carry cargo or people through danger. _Detail: The route and means._
 
 ##### Item Loadouts
-After the plan and detail are in place, each player chooses their character’s [[load-out]]. This indicates what they’re taking on the Quest. 
+After the plan and detail are in place, each player chooses their character’s [[Load-out]]. This indicates what they’re taking on the Quest. 
 
 ##### The Opener
 Once the players have chosen a plot and provide its detail, that's all the prep over! If the players want to include a special preparation or clever setup, they can do so in the middle of the action with a [[flashback]] during the score. This may take some getting used to, you may worry that you’re skipping over important things that you want to do, but jumping straight into the action of the score is much more effective once you get used to it. Your able to react to the situation you’re in, and your “planning” in flashbacks will be focused and useful, rather than merely speculations on circumstances and events that would probably never happen.
