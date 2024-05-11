@@ -16,3 +16,4 @@ vendor/
 
 # Ignore folders
 .obsidian
+.DS_Store
