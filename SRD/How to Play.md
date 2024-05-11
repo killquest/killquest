@@ -5,4 +5,4 @@ parent: SRD
 nav_order: 2
 ---
 
-# 
+# How to Play

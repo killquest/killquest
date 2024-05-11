@@ -6,4 +6,4 @@ layout: default
 - [ ] Combine Introduction
 - [ ] Combine Intrigue, plotline & reputation
 ### Long Term Goals
-- [ ] Add Domain
+- [x] Add Domain
