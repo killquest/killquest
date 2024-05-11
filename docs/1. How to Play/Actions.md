@@ -1,71 +1,128 @@
-In KillQuest, the most common way the rules prompt the conversation is with “actions”. These are things that come up frequently, so we have provided a structure that keeps things moving at a fun pace, whilst ensuring the conversation moves forward in interesting directions.
+Abilities define how the characters interact with the world, they describe those areas in which a character excels and those in which they could use a bit of help. A character’s abilities also provide a glimpse of motivation and strategy for success. Abilities may seem like just a collection of stats, but it is where your character lives, and it defines how they interact with the world.
 
-### Basic Actions
-Every character can use these basic actions:
-- Persuade an NPC **_(Persuade)_**
-- Trick an NPC **_(Perform)_**
-- Read a Situation **_(Perceive)_**
-- Attempt a Stunt **_(Move)_**
-- Break Something **_(Force)_**
-- Help or Interfere
-- Roll the Dice
+If you can't use an ability, it's usually pretty obvious as it won't make sense in a sentence. Some example of poorly worded abilities are “I want to [[sneak]] past the guard” or “I want to [[force]] the door open” 
 
+###### Interpreting Results
+When forcing open the door, if you succeed imagine what a common success scenario might look like; for instance you jimmy it open. For a failure it may look like accidentally smashing it, leaving evidence and starting a [[plotline]] for discovery. 
 
-Characters will also have access to some special weapon actions, reputation actions, travel actions, and their own career actions. All  
-of those are more specific moves are designed to help make more thematic character moments punctuate the story.
+Usually the character’s goal is pretty obvious by their ability choice, but the group should ask questions to the player to clarify their goal if they don't understand how it could be achieved with the ability.
 
+You can’t roll an ability unless your character performs that action in the fiction. i.e. If you want to roll your Command action, then you must be ordering someone around.
 
-### Combat Actions
-During a unit’s activation, it may perform X of the following actions.
+There’s definitely a lot grey area here, where goals can be attempted with a variety of approaches. This is by design. 
 
-Actions represent a unit’s p
-o
-tential capabilities, that round. If you roll a 6 you can do any action. However, if you roll a 1, you may only attempt instinctual actions such as walking or hiding.
+###### You May:
+- use other abilities to form a pool of dice.
+- Add relevant skills, increasing the number of potential successes, if you get multiple successes it creates a critical success, however the same goes for failures and critical failures. 
+- You may also get a failure and success, it is up to you to interpret what this means for your situation but the group should agree both results are reflected in the outcome.
 
-##### Move (1+)
-The move action allows a unit to traverse the battlefield. Each unit has an move of one, two, or three, which is represented by the pips on its card. 
+##### Ability Score
+A character’s skill in an ability is measured by their ability score, a stat listed next to the ability. The greater your rank, the better your chance of success whilst using that ability. What abilities your character have says a lot about them and knowing what it means can help you translate the numbers into useful applications.
 
-Troopers have unnotched bases, representing uninhibited mobility in any direction. To perform a move with a trooper unit, a player chooses a movement tool equal to the unit’s speed and places that tool against any side of the unit leader’s base. Then, the player lifts up the unit leader and places it flush against the other end of the movement tool. This is called a full move. A player can 
+1. **Talented**
+Having a single rank in an ability means you have a special knack but little experience, such having ridden a horse a few times in your life or . At this rank, you can handle routine tasks and even overcome challenging obstacles, given enough time. Certain tasks, however, are beyond your ability.
 
-After a player moves a unit leader, the player moves each other miniature in that unit to anywhere that is in cohesion with its unit leader. A mini is in cohesion with its unit leader if the distance between the base of the mini and the base of that unit’s leader is equal to or less than the length of the move 1 movement tool.
+2. **Trained**
+At this rank, you combine your natural talents with extensive training. Your skill far exceeds that of the common folk. Having two ranks in an ability means that you are often the best at what you do, and only be bested by a skilled practitioner. You can confidently tackle most challenges and, with a little luck, can pull off some pretty impressive feats.
 
-##### Attack (-)
-Make an attack against another unit. The difficulty of this will depend on the attack type. The attack action allows a unit to perform one attack. There are two types of attacks: ranged and melee.
+3. **Master**
+At this rank, people use you as an example, and seek you out to learn and improve their training, or simply to meet you to ask you questions. You can confidently tackle any challenge with most things solvable, with only the most difficult challenges forcing you to stop to solve them.
 
-##### Ranged Attacks
-To perform an attack, resolve the following steps in order:
-1. ***Form Attack Pool* -** The attacker chooses a unit in within it's range. They then roll the damage dice of the weapon for each mini in their unit firing. For example, if a unit of five riflemen are attacking, each rifle does 1 yellow dice of damage so the attacker would roll five yellow dice. Critical hits can’t be blocked by cover or armour, and leave critical wounds.
-2. ***Roll for Cover* -** If the defender is in cover, they may roll a dice for every hit responding to their cover type. For example, a unit under attack is taking cover, 3 of 5 are behind a tree, the other two are in the open, so two automatically hit and we roll 3 yellow dice. Critical Hits cannot be blocked by cover. You can also add use hide actions to improve one rank of cover.
-3. ***Roll for Armour* -** For each remaining damage, the defender rolls one die for each damage at their rank in armour. Then, resolve any abilities that allows re-rolls. The total of is then subtracted from the number of hits. If there are any hits left they are subtracted from the the defenders wounds. 
+4. **Legend**
+It is as highest ability that you could hope to achieve, and can only be achieved through un-natural means. You may only reach this level of ability briefly with the aid of magick, you cannot have permanent levels.
 
-##### Melee Attacks
-To perform an attack, resolve the following steps in order:
-1. ***Be in Melee Range* -** Each attacking mini must be in melee range of an enemy mini. If a unit does not have a melee weapon, it is considered to fight unarmed (1 red dice). Any mini not in melee range cannot perform a melee attack.
-2. ***Form Attack Pool* -** The attacker chooses a unit in within it's range. They then roll the damage dice of the weapon for each mini in their unit firing. For example, if a unit of five spear maidens are attacking, each spear does 1 yellow dice of damage so the attacker would roll five yellow dice. Critical hits can’t be blocked by cover or armour, and leave critical wounds.
-3. ***Roll for Armour* -** For each remaining damage, the defender rolls one die for each damage at their rank in armour. Then, resolve any abilities that allows re-rolls. The total of is then subtracted from the number of hits. If there are any hits left they are subtracted from the the defenders wounds. 
+### Command
+When you ***command***, you make demands or enforce a dominating influence over someone.
+##### You Might use this to:
+- inspire an ally to action
+- intimidate characters to follow your orders
+- control beasts and crowds
+- captivate attention and be heard
+### Craft
+When you ***craft***, you create or shape something through deliberate artistry and creativity.
+##### You Might use this to:
+- create a new gadget or alter an existing item
+- cook food or brew drinks, poisons and potions
+- make ammunition explosives or smoke screens
+- repair or upgrade armour, jewellery or weaponry
+### Divine
+When you ***divine***, you you wield a deity’s power to influence or understand world.
+##### You Might use this to:
+- identify and dispel magick
+- cast a spell
+- decipher ancient tomes and scrolls 
+- learn new spells, rituals, or magick
 
-While a personnel unit is in a melee with another personnel unit, those units cannot perform ranged attacks and cannot perform moves except to withdraw. 
+I think this could be ***conjure*** instead of divine
+### Endure
+When you ***endure***, you resist adverse force or influence without yielding.
+##### You Might use this to:
+- endure physical hardships
+- maintain composure in the face of fear
+- minimise the impact of injuries
+- remain unaffected by sense impairing substances
+- go prolonged periods without food, water, or rest
+### Force
+When you ***force***, you compel something or someone to do something through physical coercion.
+##### You Might use this to:
+- grapple an opponent or escape from their grapple
+- open locked doors or chests
+- hold onto something against resistance
+- physically intimidate enemies
+- perform melee attacks
+- move heavy things
+### Handle
+When you ***handle***, you manipulate, control, or use something with dexterity and skill using your hands.
+##### You Might use this to:
+- pick someone’s pocket
+- conceal small objects
+- plant or switch items unnoticed
+- crack a safe or pick a lock
+- disable an alarm or trap
+- control a mount with reins
+- play a musical instrument
+### Search
+When you ***search***, you explore or examine something or someone in order to discover information, objects, or clues.
+##### You Might use this to:
+- uncover hidden clues and secret passages
+- find valuable loot or treasure
+- find tracks or footprints
+- find clues at a library
+### Move
+When you ***move***, you move quickly and precisely with grace and gusto. 
+##### You Might use this to:
+- dodge incoming attacks
+- perform acrobatics or stunts
+- jump a fence, climb into a window or leap between rooftops
+### Perceive
+When you ***perceive***, you use your senses to become aware of or understand something or someone.
+##### You Might use this to:
+- spot the signs of trouble before it happens
+- uncover opportunities or weaknesses
+- detect a person’s motivations or true intentions
+- closely analyse a person to perceive hidden truths
+- examine events to understand a pressing situation
 
-You can shoot into melee combat, but you must risk shooting the wrong target. Roll a yellow dice, if it's a hit, you hit the correct target, otherwise it hits the other unit.
-##### Aim (2+)
-Take a moment to line up the perfect shot. While attacking, a unit may spend aim tokens to re-roll up to two attack dice for each token spent.
-##### Disengage (1+)
-Exit an engagement, by spending an entire activation to perform a speed-1 move or exit at your regular speed, but the enemy unit will get a free attack on you.
-##### Disengage (4+)
-Exit an engagement at your regular speed, without provoking attacks
-##### Help (2+)
-Give a unit a token of your choice.
-##### Hide (1+)
-Whilst next to a piece of terrain, make a Sneak check to break line-of-sight.
-##### Interact (1+)
-Use an object on your person or in base contact i.e. drink a potion or open a door.
-##### Recover (3+)
-Make an endure roll, if you succeed add one wound or model back to your unit. On a crit add two wounds instead.
-##### Retreat (3+)
-Once you reach the edge of the board, you leave the battle and can’t come back.
-##### Re-Roll (4+)
-You may re-roll this dice, to try and get a better result.
-##### Scheme (2+)
-Draw another card to your hand.
-##### Ready (-)
-Hold an action to use as a reaction before the start of your next turn. This will require a dice roll of the value of the action you want to accomplish. If you do not perform the move the action you chose is not used, but the dice is and cannot be used for anything else.
+// observe // might be better to describe?
+### Perform
+When you _**perform**_, you captivate an audience with skill
+##### You Might use this to:
+- inspire or evoke specific emotions
+- act as another character would or deceive others
+- entertain crowds or distract enemies
+- sleight of hand or illusion
+- convey information secretly in a message
+### Persuade
+When you ***persuade***, you soothe, demand or delight by compelling attraction, enthusiasm or loyalty.
+##### You Might use this to:
+- lie convincingly
+- gain access to secured resources or information
+- make a good impression or convince someone
+- transcend class and cultural barriers
+- charm the guards or at least bribe them
+### Sneak
+When you ***sneak***, you mask or conceal yourself or intentions in a subtle way to avoid detection.
+##### You Might use this to:
+- skulk in the shadows
+- hide without being noticed
+- ambush from a hidden position
