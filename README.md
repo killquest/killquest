@@ -8,14 +8,10 @@ KillQuest is a pulp [adventure game](http://questingblog.com/adventure-game-vs-o
 
 You should expect lethal skirmishes, faction based politics, high stakes heists and player-driven campaigns. You'll play the role of a powerful patron who oversees and controls the cast of colourful characters that are in your service. 
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
-
 ### How is it different to existing popular RPG’s?
-- ***You don't control a single character.*** You will be roleplaying a roster of misfits. You play as a demigod, guiding and influencing a cult of your followers.
+- ***You don't control a single character.*** You will be playing the role of a divine patron, who controls a cult of misfits enthralled into your service. You live in the minds of your characters, a voice inside their heads they can't ignore.
 - ***Democratic rulings.*** You don't need a DM, and decisions are to be agreed by a majority at the table. Although I'm sure many groups will unanimously decide to return to the old ways and install an all powerful Dungeon Master.
 - ***Roleplaying, not playing roles.***  Everyone takes on the same role as a player, there is no DM, and you control multiple characters, meaning no-one has to play as a healer for the whole team. 
-- ***Virtually no maths.*** We have removed maths from wherever it is possible, and when it does occur it's rarely more complicated than 6+5.
-- ***Pre-determined Randomness.*** We limit what actions are possible before you do it, rather than finding out after. This means less disappointed players, and rewards clever thinkers and problem solvers.
 - ***Our rules are guidelines.*** Players should feel like they can do any action, regardless of whether it says it on the character sheet that they “can” do it. If the table agrees you can do it, you can.
 
 ### How does it play?
