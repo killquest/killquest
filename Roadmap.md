@@ -11,6 +11,3 @@ layout: default
 
 ### Devlog (done)
 ✅ Add Logo & Favicon
-✅ 
-✅ 
-✅ 
