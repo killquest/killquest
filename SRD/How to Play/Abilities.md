@@ -3,7 +3,7 @@ title: Abilities
 layout: default
 parent: How to Play
 grand_parent: SRD
-nav_order: 2
+nav_order: 1
 ---
 Your characters abilities define how they interact with the world, what they are capable of and how they are flawed. It may to be just a collection of stats, but it is where your character lives, it defines how they interact with the world.
 
