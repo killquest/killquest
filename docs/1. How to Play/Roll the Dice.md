@@ -109,7 +109,7 @@ The player then compares the ability score. The disparity between the two tells 
 
 If a player wants to try to make a new friend by ***Forcing*** something — maybe that’s possible, but it wouldn’t be farfetched to say it’s a desperate atempt with limited effects. I would imagine it might be easier to ***Persuade*** them. 
 
-If the ability score is higher than the difficulty, then the difficulty is simple.
+If the ability score is higher than the difficulty, then the difficulty is easy.
 If the ability score is the same as the difficulty, then the difficulty is challenging.
 If the ability score is lower than the difficulty, then the difficulty is difficult.
 
