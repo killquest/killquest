@@ -34,3 +34,21 @@ Encounters are almost identical to schemes, but offer the players no choices and
 During the downtime phase, the GM engages the systems for rewards, heat, and entanglements, to determine all the fallout from the score. Then the PCs each get their downtime activities, such as indulging their vice to remove stress or working on a long-term project. When all the downtime activities are complete, the game returns to free play and the cycle starts over again.
 
 The phases are a conceptual model to help you organizs the game. They’re not meant to be rigid structures that restrict your options (this is why they’re presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you’re trying to accomplish in play. Each phase suits a different goal.
+
+---
+
+### How does it play?
+Free play aims to progress the narrative through collaborative storytelling, with players building upon each other's ideas. It's more like a casual conversation between friends, where players ask questions and make statements, using the rules and fiction shape the conversation. 
+  
+When a situation occurs where the outcome is uncertain and a decision needs to be made. 
+
+The game can be chaotic, allowing the flow to remain uninterrupted until a final action is decided.  
+  
+The highest level of the game is free play, where players determine their characters' responses to the situation. When the situation becomes too complex or the characters' abilities are tested, structured play is used. 
+
+Dice rolls determine the success or failure of actions, injecting suspense and tension into the narrative.
+##### Structured Play
+Sometimes you need the game to be a bit more structured, and have the world be a little more consistent so the players have a good idea of their consequences. You might be in a fight and need to work out how to use the environment to your advantage.
+
+###### Embrace the Structure in Important Moments 
+For moments where consistency and consequences matter, KillQuest provides rules and prompts to guide your gameplay. Whether you find yourself in a crucial battle, leveraging the environment to gain an advantage, or facing pivotal decisions with far-reaching implications, the core rules and prompts serve as valuable tools, enriching the conversation and filling in gaps or moments of uncertainty.
