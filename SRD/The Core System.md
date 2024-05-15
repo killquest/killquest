@@ -6,22 +6,17 @@ nav_order: 1
 ---
 
 # The Core System
-KillQuest functions like a conversation between the players, the story and the game rules. The game provides the environment, characters, and fiction the players will interact with, the players respond by narrating their characters actions. When the outcome of those actions is uncertain, the players roll the dice to find out what happens next.
-
-KillQuest is fairly informal and light on number-crunching. By default, the game starts in free play which doesn’t have official turns, instead players will take turns talking amongst each other, in the same way they would in a natural conversation or debate. Sometimes, you’ll be in the spotlight describing something cool, complex, or confusing. Other times, you’ll step out of the spotlight to let other players do the same. 
-
-Like any conversation, the time you spend listening is just as important as the time you spend talking. The details established by the other people at the table are important to you: they might change what moves you can make, set up an opportunity for you, or create a challenge you have to face. The conversation works best when we all listen, ask questions, and build on each other’s contributions.
+KillQuest is fairly informal and light on number-crunching and mostly takes the form of a conversation between the players about the story aided, when necessary, by the game rules. The game provides the environment, characters, and fiction the players will interact with, the players respond by narrating their characters actions. When the outcome of those actions is uncertain, the players roll the dice to find out what happens next.
 
 ### Free Play
-Free play is a form of conversation between players about the world's fiction and characters, where players follow the natural flow without rules to determine what happens next. Listening is crucial, as details from others can change what moves you can make, create opportunities, or create challenges. 
+During free play there are no rules to say whose turn it is to talk, instead players follow the natural flow of the conversation, asking questions or making statements. The group then works out what happens next, together. Sometimes, you’ll be in the spotlight describing something cool, complex, or confusing.
 
-The majority of the time played will take the form of a conversation between the players about the fiction of the world and the characters and what the interactions between them will reveal, we call this free play. During this time there are no rules to say whose turn it is to talk, instead players follow the natural flow of the conversation, asking questions or making statements. The group then works out what happens next, together. It isn't a monologue lead by a single person, it’s a conversation.
+It isn't a monologue lead by a single person, it’s a conversation, and like any conversation the time you spend listening is just as important as the time you spend talking. It works best when we all listen, ask questions and build on each other’s contributions. The details established by the other people at the table are important; they might change what moves you can make, set up an opportunity for you, or create a challenge you have to face. 
 
-
-avoiding rules so the flow remains uninterrupted until the situation becomes too complex to manage mentally. When that happens we switch to structured play where dice rolls and procedures determine the success or failure of such actions, injecting suspense and tension into the narrative. 
+Free play is meant to be free, so avoid using rules and rolls so the flow remains uninterrupted until the situation becomes too complex to manage mentally. When that happens we switch to structured play where dice rolls and procedures determine the success or failure of such actions, injecting suspense and tension into the narrative. 
 
 ### Structured Play
-Structured play is used when the situation becomes too complex or where consistency and consequences matter, we can inject suspense and tension into the narrative through dice rolls and procedures. Whether you find yourself in a crucial battle, leveraging the environment to gain an advantage, or facing pivotal decisions with far-reaching implications; structured play provides valuable tools for enriching the conversation, providing ideas and prompts and making sure everyone is on the same page.
+When the situation becomes too complex or consistency and consequences matter, we can inject suspense and tension into the narrative through dice rolls and procedures. Whether you find yourself in a crucial battle, leveraging the environment to gain an advantage, or facing pivotal decisions with far-reaching implications; structured play provides valuable tools for enriching the conversation, providing prompts and making sure everyone is on the same page.
 
 ---
 ### Action!
