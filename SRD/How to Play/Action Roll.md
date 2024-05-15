@@ -31,7 +31,7 @@ Once the player chooses their action, the rest of the group looks at the situati
 ### 4. **Roll the dice**
 The symbol on the dice determines your degree of success. No matter what happens, the situation changes. It never stays the same, even when things are going smoothly.
 
-- Blank: Your roll is a failure. You don’t do what you wanted to do, and things go wrong somehow.
-- Partial: Your roll is a partial success. You do what you wanted to, but with a cost, compromise, or complication.
-- Success: Your roll is a success. You do exactly what you wanted to do, without any additional headaches.
-- Critical : Your roll is beyond successful! You do exactly what you wanted to do, with some spectacular added bonus.
+- Blank: Your roll is a failure. You don’t do what you wanted to do, and things go wrong somehow
+- Partial: Your roll is a partial success. You do what you wanted to, but with a cost, compromise, or complication
+- Success: Your roll is a success. You do exactly what you wanted to do, without any additional headaches
+- Critical : Your roll is beyond successful! You do exactly what you wanted to do, with some spectacular added bonus
