@@ -10,11 +10,11 @@ An ability represents a character’s skill level when approaching a related cha
 ### Ability Score
 A characters abilities are measured in ranks, shown by the number of dots next to the ability on their character card. The greater your rank, the better your chance of success whilst using that ability.
 
-1. **Talented** 🔘
+🔘 **Talented**
 Having a single rank means you have a talent but little experience. You can handle routine tasks and even overcome challenging obstacles, given enough time. Certain tasks, however, are beyond your ability.
-2. **Experienced** 🔘🔘
+🔘🔘 **Experienced**
 At this rank, you combine your natural talents with extensive experience. Your skill far exceeds that of the common folk. You are often the best at what you do, and can confidently tackle most challenges and with a little luck, can pull off some pretty impressive feats.
-3. **Master** 🔘🔘🔘
+🔘🔘🔘 **Master** 
 At this rank, people use you as an example, and seek you out to learn from you or to ask you questions. You can confidently tackle any challenge, with only the most difficult challenges giving your pause for thought.
 
 ### Command
