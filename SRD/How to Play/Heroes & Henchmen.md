@@ -3,7 +3,7 @@ title: Heroes & Henchmen
 layout: default
 parent: How to Play
 grand_parent: SRD
-nav_order: 4
+nav_order: 5
 ---
 ### Heroes
 You start with one hero, and as you complete quests and help locals, your reputation grows, making it easier to recruit more powerful Heroes. 

@@ -1,0 +1,1 @@
+They are old souls reborn. Once a year a soul is given a new body and is born onto the shores of the chained sea. These souls are taken from [[Everland]] and reborn into bodies that are resistant to disease, heal faster and are inherently magick. 

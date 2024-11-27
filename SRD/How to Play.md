@@ -15,6 +15,15 @@ KillQuest is a simple game. The basic rules you need to understand to play are _
 - 
 - At least one friend
 
+#### Playing a Game 
+A session works similarly to an episode of a TV show, there are one or two main events, with a larger story arc that can last multiple sessions. An average session will last anywhere between half an hour to a few hours depending on the story you are telling and the preferences of the group.  
+
+During a session the group will usually work with your company to accomplish a job, wether that is your own scheme or a random encounter. You will then send you characters into the action, resolve the consequences and find out what characters succeed or fail. 
+
+Once the action is resolved you'll enter downtime where your characters can recover, pursue personal projects and relieve stress. Then we look for new opportunities and that's the core gameplay loop.
+
+No-one is in charge of the story, it is what happens the actions that every character takes in reaction to the opening situation, how the dice roll and how your group interprets those events. The story emerges from the convergence of all of these things.
+
 #### An average session 
 An average session is fairly similar to an episode of a TV show. There are usually one or two main events, with a larger story arc that will last multiple sessions. That could take the form of complex character arcs, taking on powerful villains or strategic wars. A session will commonly last anywhere between half an hour up to a few hours depending on the story you are telling and the preferences of the group.  
 

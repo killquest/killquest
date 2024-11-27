@@ -3,9 +3,9 @@ title: Abilities
 layout: default
 parent: How to Play
 grand_parent: SRD
-nav_order: 1
+nav_order: 2
 ---
-Your characters abilities define how they interact with the world, what they are capable of and how they are flawed. It may to be just a collection of stats, but it is where your character lives, it defines how they interact with the world.
+An ability represents a character’s skill level when approaching a related challenge; a higher number means a higher chance of success when using that attribute. Your characters abilities define how they interact with the world, what they are capable of and how they are flawed. It may to be just a collection of stats, but it is where your character lives and it defines how they interact with the world. 
 
 ### Ability Score
 A characters abilities are measured in ranks, shown by the number of dots next to the ability on their character card. The greater your rank, the better your chance of success whilst using that ability.
