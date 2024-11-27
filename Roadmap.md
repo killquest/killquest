@@ -8,34 +8,27 @@ KillQuest is a narrative driven adventure game about assembling a group of colou
 ### Up Next
 - [ ] Finalise Introduction
 - [ ] Combine Intrigue, plotline & reputation
+## Milestones
 
-### Milestones
-
-Concept Development
+### Concept Development
 ✅ Finalise the theme, setting, and core gameplay loop
 ✅ Define your unique mechanics or selling points
 - [ ] Create a pitch document or one-page summary
-
-System Design
+### System Design
 ✅ Draft the rule set (e.g., dice mechanics, character cards, progression)
 - [ ] Design character classes or archetypes
-
-Playtesting
+### Playtesting
 - [ ] Conduct initial playtests with trusted groups
 - [ ] Iterate based on player feedback
-
-Visual Design
+### Visual Design
 - [ ] Draft character sheets, maps, and visual aids
 - [ ] Decide on the aesthetic (art style, layout preferences)
-
-Worldbuilding
+### Worldbuilding
 - [ ] Build the lore, factions, and major locations
 - [ ] Write scenarios and story arcs
-
-Content Expansion
+### Content Expansion
 - [ ] Write additional scenarios, modules, or expansions
 - [ ] Develop optional rules for advanced or simplified play
-
 ### Key Deliverables
 - [ ] Rulebook
 - [ ] Character Creation
