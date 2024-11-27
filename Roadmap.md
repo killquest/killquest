@@ -2,17 +2,14 @@
 title: Roadmap
 layout: default
 ---
-### Vision Statement
-KillQuest is a narrative driven adventure game about assembling a group of colourful characters to complete questionable jobs in the crumbling remains if a once mighty empire. You should expect lethal skirmishes, faction based politics, high stakes heists and player-driven campaigns. You'll play the role of a powerful patron who oversees and controls the cast of colourful characters that are in your service. 
-
 ### Up Next
 - [ ] Finalise Introduction
 - [ ] Combine Intrigue, plotline & reputation
 ## Milestones
 
 ### Concept Development
-✅ Finalise the theme, setting, and core gameplay loop
-✅ Define your unique mechanics or selling points
+- [x] Finalise the theme, setting, and core gameplay loop
+- [x] Define your unique mechanics or selling points
 - [ ] Create a pitch document or one-page summary
 ### System Design
 - [x]  Draft the rule set (e.g., dice mechanics, character cards, progression)
@@ -42,5 +39,5 @@ KillQuest is a narrative driven adventure game about assembling a group of colou
 
 ---
 ### Devlog (done)
-✅ Add Logo & Favicon
-✅ Add Domain
+- [x] Add Logo & Favicon
+- [x] Add Domain
