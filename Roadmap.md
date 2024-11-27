@@ -15,7 +15,7 @@ KillQuest is a narrative driven adventure game about assembling a group of colou
 ✅ Define your unique mechanics or selling points
 - [ ] Create a pitch document or one-page summary
 ### System Design
-✅ Draft the rule set (e.g., dice mechanics, character cards, progression)
+- [x]  Draft the rule set (e.g., dice mechanics, character cards, progression)
 - [ ] Design character classes or archetypes
 ### Playtesting
 - [ ] Conduct initial playtests with trusted groups
