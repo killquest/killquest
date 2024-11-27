@@ -4,10 +4,10 @@ layout: default
 parent: SRD
 nav_order: 1
 ---
-
 # The Core System
-KillQuest is fairly informal and light on number-crunching and mostly takes the form of a conversation between the players about the story aided, when necessary, by the game rules. The game provides the environment, characters, and fiction the players will interact with, the players respond by narrating their characters actions. When the outcome of those actions is uncertain, the players roll the dice to find out what happens next.
+KillQuest is an informal conversation between the players about the story aided by a world and the rules. The game provides the environment and characters, the players provide the fiction through their characters actions and when the outcome of those actions is uncertain, the dice provide the answers to what happens next.
 
+It's a simple game that almost anyone can pick up and learn within half an hour, and you can make a character who is alive with detail within minutes. The character creation page in this book has all the instructions you need to create your character. All you need to do is follow the numbered steps in each box until you’ve filled everything in.
 ### Free Play
 During free play there are no rules to say whose turn it is to talk, instead players follow the natural flow of the conversation, asking questions or making statements. The group then works out what happens next, together. Sometimes, you’ll be in the spotlight describing something cool, complex, or confusing.
 
