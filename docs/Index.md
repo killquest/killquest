@@ -9,7 +9,7 @@
 ### 1. How to Play
 [[The Conversation]]
 [[Cards]]
-[[Actions]]
+[[docs/1. How to Play/Actions]]
 [[Abilities]]
 [[Roll the Dice]]
 [[Advantage & Disadvantage]]
